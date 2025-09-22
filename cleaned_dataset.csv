@@ -1,0 +1,10 @@
+customerid,name,age,gender,country,joindate
+1.0,Alice,25.0,male,usa,2020-01-02
+2.0,Bob,30.0,female,usa,2020-03-05
+2.0,Bob,30.5,female,usa,2020-05-03
+3.0,Charlie,35.0,male,canada,2020-04-10
+4.0,David,40.0,female,canada,2020-04-10
+5.0,Eva,29.0,unknown,canada,2020-05-15
+7.0,Grace,31.0,male,india,2020-06-20
+8.0,Hannah,30.5,female,india,2020-07-01
+9.0,Ivy,28.0,female,india,2020-07-15
